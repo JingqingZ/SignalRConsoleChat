@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNet.SignalR.Client;
 
-namespace SignalRConsoleApp
+namespace ChatClient
 {
     internal class Program
     {

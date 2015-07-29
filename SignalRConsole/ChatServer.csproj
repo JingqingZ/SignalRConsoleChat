@@ -7,7 +7,7 @@
     <ProjectGuid>{925B6F1A-FE43-4483-8A18-D7206D7BC928}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SignalRConsole</RootNamespace>
+    <RootNamespace>ChatServer</RootNamespace>
     <AssemblyName>SignalRConsole</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

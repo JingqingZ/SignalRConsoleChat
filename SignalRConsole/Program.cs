@@ -5,11 +5,11 @@ using Microsoft.Owin;
 using Microsoft.Owin.Cors;
 using Microsoft.Owin.Hosting;
 using Owin;
-using SignalRConsole;
+using ChatServer;
 
 //[assembly: OwinStartup(typeof(Startup))]
 
-namespace SignalRConsole
+namespace ChatServer
 {
     class Program
     {

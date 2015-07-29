@@ -28,3 +28,6 @@ C:\Users\zhang_000\Documents\ICL\SignalRConsole\SignalRConsole\bin\Debug\Newtons
 C:\Users\zhang_000\Documents\ICL\SignalRConsole\SignalRConsole\obj\Debug\SignalRConsole.csprojResolveAssemblyReference.cache
 C:\Users\zhang_000\Documents\ICL\SignalRConsole\SignalRConsole\obj\Debug\SignalRConsole.exe
 C:\Users\zhang_000\Documents\ICL\SignalRConsole\SignalRConsole\obj\Debug\SignalRConsole.pdb
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\SignalRConsole\bin\Debug\SignalRConsole.exe.config
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\SignalRConsole\obj\Debug\SignalRConsole.exe
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\SignalRConsole\obj\Debug\SignalRConsole.pdb
