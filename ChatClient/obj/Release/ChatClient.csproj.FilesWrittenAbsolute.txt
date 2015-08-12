@@ -1,0 +1,17 @@
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\.NETFramework,Version=v4.5.AssemblyAttribute.cs
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\ChatClient.exe.config
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\ChatClient.exe.mdb
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\ChatClient.exe
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\ChatClient.exe
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\ChatClient.exe.mdb
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Owin.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\System.Web.Cors.dll
