@@ -15,3 +15,4 @@ C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Micro
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Newtonsoft.Json.dll
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Owin.dll
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\System.Web.Cors.dll
+C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Nowin.dll

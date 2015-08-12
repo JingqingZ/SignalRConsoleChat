@@ -1,11 +1,9 @@
 ﻿using System;
 using Microsoft.AspNet.SignalR;
 using Microsoft.AspNet.SignalR.Hubs;
-using Microsoft.Owin;
 using Microsoft.Owin.Cors;
 using Microsoft.Owin.Hosting;
 using Owin;
-using ChatServer;
 
 //[assembly: OwinStartup(typeof(Startup))]
 
