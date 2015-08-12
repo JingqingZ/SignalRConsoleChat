@@ -5,7 +5,7 @@ namespace ChatClient
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var connection = new HubConnection("http://127.0.0.1:8088/");
             var myHub = connection.CreateHubProxy("ChatHub");
