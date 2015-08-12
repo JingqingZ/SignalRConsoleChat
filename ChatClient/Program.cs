@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http;
 using Microsoft.AspNet.SignalR.Client;
 
 namespace ChatClient
