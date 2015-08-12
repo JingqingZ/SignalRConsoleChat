@@ -48,4 +48,3 @@ C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Newto
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\ChatClient.exe
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\ChatClient.pdb
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\bin\Release\Nowin.dll
-C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatClient\obj\Release\ChatClient.csprojResolveAssemblyReference.cache

@@ -58,4 +58,3 @@ C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatServer\bin\Release\Micro
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatServer\bin\Release\Microsoft.Owin.Security.xml
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatServer\bin\Release\Newtonsoft.Json.xml
 C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatServer\bin\Release\Nowin.dll
-C:\Users\zhang_000\Documents\ICL\SignalRConsoleChat\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
